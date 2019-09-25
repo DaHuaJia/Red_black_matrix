@@ -1,0 +1,46 @@
+	form{
+		width:400px; 
+		margin:0 auto; 
+		margin-bottom:12px;
+	}
+	input{
+		height:24px; 
+		width:60px; 
+	}
+	a{
+		cursor:pointer; 
+		text-decoration: none; 
+		padding:6px 12px;  
+		background: blueviolet;
+		font-size:19px; 
+		border-radius: 8px;
+	}
+	table{
+		border:2px solid #000; 
+		border-collapse: collapse;
+	}
+	tr,td,th{ 
+		border:1px solid #000; 
+		text-align:center;
+		height:24px; 
+		width:24px;
+	}
+	div{
+		height:18px; 
+		width:18px; 
+		border-radius:10px;
+		margin:4px; 
+		cursor:pointer;
+	}
+	.WHITE{
+		height:12px; 
+		width:12px; 
+		border:3px 
+		solid #000;
+	}
+	.RED{
+		background: red;
+	}
+	.BLANK{
+		background: black;
+	}
